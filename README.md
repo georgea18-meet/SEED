@@ -1,1 +1,1 @@
-#APP SEED
+SEED
